@@ -56,6 +56,7 @@ The Project Contains **20 business-driven SQL queries** Progressing from basic A
 ## 🔍 Advanced SQL Analysis
 
 **Running Revenue Total**
+
 WITH monthly_revenue AS (
     SELECT
         YEAR(b.show_date) AS year,
@@ -78,6 +79,7 @@ FROM monthly_revenue
 ORDER BY year, month;
 
 **Movie Revenue Tiers**
+
 WITH movie_revenue AS (
     SELECT
         m.movie_id,
@@ -110,6 +112,7 @@ ORDER BY revenue_tier;
 
 
 **Month-over-Month Revenue Growth**
+
 WITH monthly_revenue AS (
     SELECT
         YEAR(show_date) AS year,
@@ -153,6 +156,7 @@ FROM revenue_with_lag
 ORDER BY year, month;
 
 **RFM-style Customer Segmentation**
+
 WITH customer_rfm AS (
     SELECT
         c.customer_id,
