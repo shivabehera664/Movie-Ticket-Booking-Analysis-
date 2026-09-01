@@ -1,5 +1,5 @@
 # 🎬 Movie Ticket Booking Analysis — SQL
-LOGO(https://github.com/shivabehera664/Movie-Ticket-Booking-Analysis-/blob/main/LOGO.png)
+
 ## 📌 Project Overview
 This Project Analyzed **Movie Ticket Booking Database** Using SQL to uncover insights related to Bookings, Revenue, Customers, Movies, Theatres, Payments and Customer Behaviors.
 
