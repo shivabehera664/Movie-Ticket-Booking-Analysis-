@@ -1,7 +1,7 @@
 # 🎬 Movie Ticket Booking Analysis — SQL
 
 ## 📌 Project Overview
-This Project Analyzed **Movie Ticket Booking Database** Using SQL to uncover insights related to Bookings, Revenue, Customers, Movies, Theatres, Payments and Customer Behaviors.
+This Project Analyzed 20K + Rows **Movie Ticket Booking Database** Using SQL to uncover insights related to Bookings, Revenue, Customers, Movies, Theatres, Payments and Customer Behaviors.
 
 The Project Contains **20 business-driven SQL queries** Progressing from basic Aggregations and Joins to Advanced SQL Techniques Such as **CTEs, subqueries, window functions, customer segmentation and RFM-style analysis**.
 
